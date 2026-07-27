@@ -4,4 +4,5 @@
 12ami-stack
 
 
-Warning: Users of 5ch, 2ch, Open 2channel (onj), and Futaba Channel are strictly prohibited from viewing and using the content of this account.
+<WARNING> Users of 5ch, 2ch, Open2channel, and Futabachannel are strictly prohibited from viewing and using the content of this account, now and forever. 
+12ami-stack
